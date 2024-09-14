@@ -197,3 +197,8 @@ You can run the tests using `pytest`. The test suite ensures that the endpoints 
 ```bash
 pytest
 ```
+
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details. <br>
+This project is made as a part of IBM Course.
